@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Markku3
+- 👋 Hi, I’m Mariel
 - 👀 I’m interested in coding, painting and finding something that makes me even more motivated than yesterday
 - 🌱 I’m currently studying coding for (full-stack) software development
 - 💞️ I’m looking to collaborate on projects that helps with my career and are challenging
