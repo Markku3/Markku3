@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mariel
 - 👀 I’m interested in coding, painting and finding something that makes me even more motivated than yesterday
-- 🌱 I’m currently studying coding for (full-stack) software development
+- 🌱 I’m currently studying coding for (full-stack) software development, but studying cybersecurity independently also
 - 💞️ I’m looking to collaborate on projects that helps with my career and are challenging
 - 📫 You can reach me here or in my LinkedIn www.linkedin.com/in/mariel-hynynen-34ba72217
 
